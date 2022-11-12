@@ -1,4 +1,4 @@
-package lambda_practice;
+package Practice;
 
 import java.util.Comparator;
 import java.util.List;
