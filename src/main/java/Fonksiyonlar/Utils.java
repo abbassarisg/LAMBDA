@@ -1,3 +1,5 @@
+package Fonksiyonlar;
+
 public class Utils {
     public static void ayniSatirdaBosluklaYazdir(Object str){
 
